@@ -1,10 +1,9 @@
 Python_tools
 
-Ce script Python untilise un fichier .csv avec des données en input
-Et génère en output un fichier .sql permettant de faire soit des Insert ou des Update
-des données provenant du .csv dans un table d'une base de données de type MySql
-Il permet aussi de formater le fichier output pour crééer une série de ligne de code 
-afin de faire une entrée de lot dans une BD de type MsAccess
+Ce script Python untilise un fichier .csv en input contenant des données, séparées en colonnes.
+Il génère en output un fichier .sql permettant de faire soit des Insert ou des Update dans un table d'une base de données de type MySql.
+Il permet aussi de formater le fichier output pour crééer une série de lignes de code 
+afin de faire une entrée de lot dans une BD de type MsAccess.
 =======================================================================
 Script programmé par Pascal Audet pour le LEMP  en août 2019 
 modification en octobre 2019
